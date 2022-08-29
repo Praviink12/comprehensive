@@ -1,0 +1,8 @@
+#bg{
+    background-image:url(src\assets\download6.webp) ;
+    -moz-background-size:cover;
+    -webkit-background-size:cover ;
+    -o-background-size:cover ;
+    background-size: cover;
+    height: 130vh;
+}
